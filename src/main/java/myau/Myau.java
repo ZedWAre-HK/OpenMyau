@@ -15,7 +15,7 @@ import java.lang.reflect.Field;
 import java.util.ArrayList;
 
 public class Myau {
-    public static String clientName = "&7[&cM&6y&ea&au&7]&r ";
+    public static String clientName = "&7[&eZedWAre's &bMyau&7]&r ";
     public static RotationManager rotationManager;
     public static FloatManager floatManager;
     public static BlinkManager blinkManager;
